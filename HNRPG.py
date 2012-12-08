@@ -1,9 +1,9 @@
 #! python
 """ This is the very first Alpha Build of Halo Night RPG, this program should never see the day of light, but if it does and you want a real description email me at notna888@gmail.com thanks.
 """
-
+from player import *
 characterselected = "false"
-
+#When player data is updated, we use Anton = Player(Anton_data) for anton
 while characterselected == "false":
 	print "Welcome, please select your character"
 	print "1 Anton the Linux User"
