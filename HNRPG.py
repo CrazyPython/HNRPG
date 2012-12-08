@@ -13,8 +13,11 @@ while characterselected == "false":
 	print "5 Jayden the Wise"
 	print "6 Shaun the Fucking Pony Faggot"
 	print "7 Warwick the Filthy Casual"
-
-	CharacterIndex = int(raw_input("Please enter the integer: "))
+	try:
+		CharacterIndex = int(raw_input("Please enter the integer: "))
+	except ValueError:
+		print"Sigh, not an integer"
+		continue #next loop
 	if CharacterIndex == 1:
 		print "May Tux be with you."
 		characterselected = "true"
