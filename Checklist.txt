@@ -1,0 +1,14 @@
+Step One : Select Character - Also maybe display info stored in array/list:
+
+1 Anton
+2 Harry
+3
+4 etc
+
+then when input for example 1
+prints "Anton is a person blah blah blah, STATS"
+Want this guy? y/n
+n returns to character select, y continues.
+
+list!
+character, e.g. Anton.stats [11,11,12,11, etc] then to print "Strength" Anton.list[1]

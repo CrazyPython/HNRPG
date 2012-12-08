@@ -1,0 +1,4 @@
+Characters - Objects of Class "Player" - instance varibles**
+Monsters - list? e.g. [Spider, Warewold, Norweigian blue parrot etc] then when battle occurs use a random number genorator to pick which monster?
+Monsters level (and ergo health etc) should be linked to characters level (maybe max creature +5 min -3), monster have all the same modifiers as player? simply no weapons etc, individual monster stats? e.g. level 10 spider has more attack but less deffence than a level ten carrot (may be difficult?)
+money system? find money on the ground, from monsters, possibly add loot/"borrow" money depending on levels? also increased/decreased chance of sucsess 

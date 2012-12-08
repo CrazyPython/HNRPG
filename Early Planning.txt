@@ -1,0 +1,104 @@
+Halo Night: The Python Game
+
+**Possibly Multiplayer if it's not too difficult to do** (and a trading system might be good too)
+
+Plot:
+A group of friends are absorbed into a videogame, but not one of those cool ones with the fancy pants graphics, no, a shit house one which runs on dos. (Well a python shell, but that's irrelevant)
+
+Objective: Get out of this videogame world back to the real one, or at least to one where they can punch trees with their bare hands, or where they can think with portals.
+
+Characters:
+
+Anton:
+Strength:
+Inteligence:
+Charisma:
+Stamina:
+Health:
+Defence:
+Agility/Dexterity:
+Alcohol Tollerance:
+
+Special Ability:
+
+Daniel:
+Strength:
+Inteligence:
+Charisma:
+Stamina:
+Health:
+Defence:
+Agility/Dexterity:
+Alcohol Tollerance:
+
+Special Ability: 
+
+Harry:
+Strength:
+Inteligence:
+Charisma:
+Stamina:
+Health:
+Defence:
+Agility/Dexterity:
+Alcohol Tollerance:
+
+Special Ability:
+
+Jack:
+Strength:
+Inteligence:
+Charisma:
+Stamina:
+Health:
+Defence:
+Agility/Dexterity:
+Alcohol Tollerance:
+
+Special Ability:
+
+Jayden:
+Strength:
+Inteligence:
+Charisma:
+Stamina:
+Health:
+Defence:
+Agility/Dexterity:
+Alcohol Tollerance:
+
+Special Ability:
+
+Shaun:
+Strength:
+Inteligence:
+Charisma:
+Stamina:
+Health:
+Defence:
+Agility/Dexterity:
+Alcohol Tollerance:
+
+Special Ability:
+
+
+Warwick:
+Strength:
+Inteligence:
+Charisma:
+Stamina:
+Health:
+Defence:
+Agility/Dexterity:
+Alcohol Tollerance:
+
+Special Ability: 
+
+
+
+Items:
+Offencive: Swords(Different types? Katana, two handed, etc even maybe "legendary" ones?), nunchucks Knives, Javelin, Mace, Flail, Bows, Guns(maybe)+Ammo, Ability to troll. Materials for the swords Iron, bronze, etc, etc?
+Defencive: Armour?
+Food: Steak, Saucages, Burgers, Aloili, Pizza, Maccas, Maccas Breakfast (hang over remidy?), KFC, Subway, Plastic Potato Substance known as deb(Shaun Only)
+Drink: Pepsi, Coke, Lemonade, Cider, Coronas, Coopers, Jack Daniels (both premixed and straight), Red Cordial, Gin, Water(possibly an Anton ability? To help with a drunk friend? Maybe?) Vodka,
+Other: Cups/Glasses, Shot Glasses, rings?(stat boosts), Pony Porn - renders Shaun powerless for 3 moves, internet(maybe have a happiness level, then internet has the ability to increase happiness or destroy it completely?) ridable creatures? maybe a wolf? I WANT A FUCKING RIDABLE WOLF! (maybe namable?)
