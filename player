@@ -1,0 +1,16 @@
+class player:
+	def __init__(data):
+		self.strength = data[0]
+		self.intel = data[1]
+		self.charis = data[2]
+		self.stamina = data[3]
+		self.health = data[4]
+		self.defence = data[5]
+		self.agility = data[6]
+		self.AT = data[7]
+		self.weapon = None
+Anton_data = []
+Daniel_data = []
+Harrry_data = []
+Jack_data = []
+Jayden_data = []
