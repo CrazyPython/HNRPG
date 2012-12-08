@@ -1,5 +1,5 @@
 class player:
-	def __init__(data):
+	def __init__(self,data):
 		self.strength = data[0]
 		self.intel = data[1]
 		self.charis = data[2]
@@ -9,8 +9,14 @@ class player:
 		self.agility = data[6]
 		self.AT = data[7]
 		self.weapon = None
+		self.Armour = None
+		self.drink = []
+		self.food = []
+		self.other = []
 Anton_data = []
 Daniel_data = []
 Harrry_data = []
 Jack_data = []
 Jayden_data = []
+Shaun_data = []
+Warwick_data = []
